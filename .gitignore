@@ -1,0 +1,16 @@
+# Ignore all node_modules folders recursively
+**/node_modules/
+
+# Ignore all .DS_Store files (macOS metadata files)
+**/.DS_Store
+
+# Ignore all dist and dist-ssr folders recursively
+**/dist/
+**/dist-ssr/
+
+# Ignore all *.local files in any folder
+**/*.local
+
+# Optional: Ignore environment files
+**/.env
+**/.env.*.local
