@@ -29,6 +29,9 @@ main h2 {
 
 #core-concepts li:hover {
   background-color: #7925d3;
+  transition: all 0.2s ease-in-out;
+  padding: 5px;
+  border-radius: 10px;
 }
 
 #core-concepts li img {
